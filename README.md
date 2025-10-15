@@ -28,7 +28,7 @@ You can check out my design projects and frontend work at my portfolio: [Kalpit 
 ---
 
 ## 📫 How to reach me:
-- Email: [kalpitnepal@email.com](mailto:kalpitnepal@email.com)
+- Email: [kalpitnepal@email.com](mailto:nepalkalpit66@email.com)
 - LinkedIn: [Kalpit Nepal](https://linkedin.com/in/kalpitnepal)
 - GitHub: [Kalpit Nepal GitHub](https://github.com/kalpitnepal)
 
