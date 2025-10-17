@@ -1,46 +1,72 @@
-# Hi 👋, I'm Kalpit Nepal
+# 👋 Hi, I'm **Kalpit Nepal**
 
-## 🎨 Graphic Designer | 💻 UI/UX Designer | Frontend Developer
-
-### 🌟 About Me:
-I'm a passionate **Graphic Designer** and **UI/UX Designer** with expertise in creating intuitive, user-friendly experiences. I also have experience in **Frontend Development** using modern tools and technologies. 
-
-### 🧠 My Focus:
-- **UI/UX Design**: Creating user-centered designs that are both functional and aesthetically pleasing.
-- **Frontend Development**: Building dynamic, interactive web applications.
-- **Design Systems**: Crafting consistent, scalable design systems to improve development workflows.
-
-### 🛠️ My Tech Stack:
-- **Design Tools**: Figma, Adobe Photoshop, Illustrator, Sketch
-- **Frontend Development**: React.js, Tanstack Query, GraphQL, Redux Toolkit, Tailwind CSS
-- **Version Control**: Git, GitHub
-- **Web Development**: HTML, CSS, JavaScript, TypeScript, Next.js
-- **UI/UX Design**: User Research, Prototyping, Wireframing, Interaction Design
-
-### 💼 My Professional Journey:
-I blend **creative design** with **technical development** to create seamless user experiences. My goal is to always improve user interfaces while maintaining design integrity and performance.
+## 🎨 Graphic Designer | 💻 UI/UX Designer | ⚡ Frontend Developer
 
 ---
 
-## 📂 Some of my work:
-You can check out my design projects and frontend work at my portfolio: [Kalpit Nepal Portfolio](https://your-portfolio-link.com)
+### 🌟 About Me  
+I'm a passionate **Graphic Designer** and **UI/UX Designer** who loves crafting intuitive, user-focused experiences. Alongside design, I specialize in **Frontend Development**, bringing creative ideas to life with clean and efficient code.  
+
+I thrive at the intersection of **design and technology**, creating products that not only look beautiful but also deliver seamless usability and performance.
 
 ---
 
-## 📫 How to reach me:
-- Email: [kalpitnepal@email.com](mailto:nepalkalpit66@email.com)
-- LinkedIn: [Kalpit Nepal](https://linkedin.com/in/kalpitnepal)
-- GitHub: [Kalpit Nepal GitHub](https://github.com/kalpitnepal)
+### 🧠 My Focus Areas  
+- 🎯 **UI/UX Design:** Building user-centered interfaces with a balance of aesthetics and functionality.  
+- ⚙️ **Frontend Development:** Developing modern, responsive, and dynamic web applications.  
+- 🧩 **Design Systems:** Creating scalable design systems that ensure visual and functional consistency across platforms.  
 
 ---
 
-## 🚀 Projects & Contributions:
-Feel free to explore my projects on GitHub:
-- [React Projects](https://github.com/kalpitnepal?tab=repositories&q=react)
-- [UI/UX Design Projects](https://github.com/kalpitnepal?tab=repositories&q=design)
-- [GraphQL & Tanstack Query](https://github.com/kalpitnepal?tab=repositories&q=graphql)
+### 🛠️ Tech Stack  
+
+**🎨 Design Tools:**  
+Figma · Adobe Photoshop · Illustrator · Sketch  
+
+**💻 Frontend Development:**  
+React.js · Next.js · Tanstack Query · GraphQL · Redux Toolkit · Tailwind CSS  
+
+**🧩 Web Fundamentals:**  
+HTML · CSS · JavaScript · TypeScript  
+
+**🔧 Version Control:**  
+Git · GitHub  
+
+**🧠 UI/UX Expertise:**  
+User Research · Wireframing · Prototyping · Interaction Design  
 
 ---
 
-## 💬 Let's Connect:
-I'm always open to collaborating on design and frontend development projects, or even just chatting about the latest trends in design and tech.
+### 💼 Professional Approach  
+I blend **creative design thinking** with **technical expertise** to deliver impactful digital experiences.  
+My goal is to bridge the gap between design and development—ensuring every product I create is intuitive, accessible, and visually engaging.
+
+---
+
+### 📂 Portfolio  
+Check out my latest design and frontend projects on my website:  
+🌐 **[www.kalpitnepal.com.np](https://www.kalpitnepal.com.np/)**
+
+---
+
+### 📫 Contact Me  
+- 📧 **Email:** [nepalkalpit66@gmail.com](mailto:nepalkalpit66@gmail.com)  
+- 💼 **LinkedIn:** [Kalpit Nepal](https://www.linkedin.com/in/kalpit-nepal-0086aa331)  
+- 💻 **GitHub:** [github.com/kalpitnepal](https://github.com/kalpitnepal)
+
+---
+
+### 🚀 Projects & Contributions  
+Explore my work:  
+- 🔹 [React Projects](https://github.com/kalpitnepal?tab=repositories&q=react)  
+- 🔹 [UI/UX Design Projects](https://github.com/kalpitnepal?tab=repositories&q=design)  
+- 🔹 [GraphQL & Tanstack Query Work](https://github.com/kalpitnepal?tab=repositories&q=graphql)
+
+---
+
+### 💬 Let’s Collaborate  
+I’m always open to **collaboration opportunities**, **design–development partnerships**, or simply a chat about the latest trends in **UI/UX** and **frontend innovation**.  
+
+---
+
+⭐ **“Design is not just what it looks like and feels like. Design is how it works.” – Steve Jobs**
