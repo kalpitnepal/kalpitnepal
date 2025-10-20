@@ -44,7 +44,7 @@ My goal is to bridge the gap between design and development—ensuring every pro
 ---
 
 ### 📂 Portfolio  
-Check out my latest design and frontend projects on my website:  
+Check out my latest design and frontend projects on my website :  
 🌐 **[www.kalpitnepal.com.np](https://www.kalpitnepal.com.np/)**
 
 ---
