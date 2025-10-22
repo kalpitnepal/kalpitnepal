@@ -69,4 +69,4 @@ I’m always open to **collaboration opportunities**, **design–development par
 
 ---
 
-⭐ **“Design is not just what it looks like and feels like. Design is how it works.” – Steve Jobs**
+⭐ **“Design is not just what it looks like and feels like. Design is how it works.” – Steve Jobs**.
