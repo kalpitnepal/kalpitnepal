@@ -65,7 +65,7 @@ Explore my work:
 ---
 
 ### 💬 Let’s Collaborate  
-I’m always open to **collaboration opportunities**, **design–development partnerships**, or simply a chat about the latest trends in **UI/UX** and **frontend innovation**.  
+I’m always open to **collaboration opportunities**, **design–development partnerships**, or simply a chat about the latest trends in **UI/UX** and **frontend innovation**
 
 ---
 
